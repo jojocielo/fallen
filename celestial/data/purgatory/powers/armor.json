@@ -1,0 +1,10 @@
+{
+	"type": "origins:attribute",
+	"modifier": {
+		"attribute": "minecraft:generic.armor",
+		"value": 5.0,
+		"operation": "addition"
+	},
+	"name": "Getting Used To Pain",
+	"description": "You've been to hell, so it felt worse than Earth.(+ 2.5 armour slots)"
+}

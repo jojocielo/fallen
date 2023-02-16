@@ -1,0 +1,31 @@
+{
+	"powers": [
+		"purgatory:wings",
+		"purgatory:exhaust",
+		"purgatory:restrict_armor",
+		"purgatory:sleep",
+		"purgatory:maxmode",
+		"purgatory:dash",
+		"purgatory:angel",
+		"purgatory:weapon",
+		"purgatory:weapon2",
+		"purgatory:lava_vision",
+		"purgatory:fireimmunity",
+		"purgatory:lavaswim",
+                "purgatory:armor",
+                "purgatory:ashes",
+                "purgatory:no_shield",
+                "purgatory:burden_wings",
+                "purgatory:claustrophobia",
+                "purgatory:no_fall"
+
+
+
+
+	],
+	"order": 10,
+	"impact": 3,
+	"name": "Fallen Celestial",
+	"description": "Once a mighty protector of the lord. Now got banished down to hell and Earth.",
+	"icon": "minecraft:nether_star"
+}

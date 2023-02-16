@@ -1,0 +1,13 @@
+{
+	"type": "origins:swimming",
+	"condition": {
+		"type": "origins:fluid_height",
+		"fluid": "minecraft:lava",
+		"comparison": ">",
+		"compare_to": 0.0,
+		"inverted": false
+	},
+	"name": "dangerously Athletic",
+	"description": "You're able to swim in lava like water.(Pog)",
+	"hidden": false
+}

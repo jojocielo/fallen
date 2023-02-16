@@ -1,0 +1,7 @@
+{
+	"type": "origins:exhaust",
+	"name": "More Food",
+	"interval": 20,
+	"exhaustion": 0.2,
+	"description": "You, an Angel have never needed to eat. Since you've got banished from Heaven, to Hell, and now.. to Earth, you've got the ability to feel hunger."
+}
