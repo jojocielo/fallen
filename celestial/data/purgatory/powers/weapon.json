@@ -1,17 +1,17 @@
 {
 	"type": "origins:action_on_callback",
 	"name": "The Blade",
-	"description": "Upon being an Angel, you are forged with a blade called The Angel Blade.",
+	"description": "Upon being a Celestial, you are forged with a blade.",
 	"entity_action_chosen": {
 		"type": "origins:and",
 		"actions": [{
 				"type": "origins:execute_command",
-				"command": "/give @s netherite_sword{display:{Name:'{\"text\":\"Angel Blade\",\"color\":\"white\",\"bold\":true,\"italic\":true}',Lore:['{\"text\":\"Forged for Angels.\",\"color\":\"dark_gray\",\"bold\":true,\"italic\":true}']},HideFlags:5,Unbreakable:1b,CustomModelData:123456,bloodlustaxe:1b,Enchantments:[{id:\"minecraft:sharpness\",lvl:5s},{id:\"minecraft:smite\",lvl:5s},{id:\"minecraft:bane_of_arthropods\",lvl:5s},{id:\"minecraft:knockback\",lvl:2s},{id:\"minecraft:looting\",lvl:3s},{id:\"minecraft:vanishing_curse\",lvl:1s}]} 1",
+				"command": "/give @s netherite_sword{display:{Name:'{\"text\":\"The Blade\",\"color\":\"white\",\"bold\":true,\"italic\":true}',Lore:['{\"text\":\"Forged for Celestials.\",\"color\":\"dark_gray\",\"bold\":true,\"italic\":true}']},HideFlags:5,Unbreakable:1b,CustomModelData:123456,bloodlustaxe:1b,Enchantments:[{id:\"minecraft:sharpness\",lvl:5s},{id:\"minecraft:smite\",lvl:5s},{id:\"minecraft:bane_of_arthropods\",lvl:5s},{id:\"minecraft:knockback\",lvl:2s},{id:\"minecraft:looting\",lvl:3s},{id:\"minecraft:vanishing_curse\",lvl:1s}]} 1",
 				"permission_level": 4
 			},
 			{
 				"type": "origins:execute_command",
-				"command": "/give  shield{display:{Name:'{\"text\":\"Protection of The Gods\",\"color\":\"gold\",\"bold\":true,\"italic\":true}',Lore:['{\"text\":\"Blessed with the protection of the Gods\",\"color\":\"dark_gray\",\"bold\":true,\"italic\":true}']},HideFlags:5,Unbreakable:1b,Enchantments:[{id:\"minecraft:vanishing_curse\",lvl:1s}]} 1",
+				"command": "/give @s shield{display:{Name:'{\"text\":\"Protection of The Gods\",\"color\":\"gold\",\"bold\":true,\"italic\":true}',Lore:['{\"text\":\"Blessed with the protection of the Gods\",\"color\":\"dark_gray\",\"bold\":true,\"italic\":true}']},HideFlags:5,Unbreakable:1b,Enchantments:[{id:\"minecraft:vanishing_curse\",lvl:1s}]} 1",
 				"permission_level": 4
 			}
 		]

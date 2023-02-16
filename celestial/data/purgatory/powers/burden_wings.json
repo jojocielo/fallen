@@ -6,7 +6,7 @@
   "effect": {
       "effect": "minecraft:slowness",
       "duration": 100,
-      "amplifier": 2,
+      "amplifier": 1,
       "is_ambient": true,
       "show_particles": false,
       "show_icon": true
@@ -16,5 +16,5 @@
       "fluid": "minecraft:water"
   },
   "name": "Heavy Wings",
-  "description": "Your wings will be wet if in water, so you gain slowness."   
+  "description": "Your wings get wet in water, so you gain slowness."
 }

@@ -33,5 +33,5 @@
 	},
 	"cooldown": 300,
 	"name": "Boost Charge",
-	"description": "You build up momentum to boost your flight/charge. By pressing your secondary key, You can dash forward 15 blocks (Secondary key)."
+	"description": "You build up momentum to boost your flight/charge. By pressing your secondary key, you can dash forward 15 blocks (Secondary key)."
 }
