@@ -1,0 +1,20 @@
+
+{
+	"condition": {
+		"inverted": true,
+		"type": "origins:moving"
+	},
+	"type": "origins:action_over_time",
+	"entity_action": {
+		"type": "origins:and",
+		"actions": [
+			{
+				"type": "origins:execute_command",
+				"command": "setblock ~ ~2 ~ supplementaries:ash keep",
+				"permission_level": 4
+			}
+		]
+	},
+	"interval": 400,
+	"hidden": true
+}
